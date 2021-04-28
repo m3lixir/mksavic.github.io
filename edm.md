@@ -22,8 +22,9 @@ is_contact: true
 |          Date           |                        Show                        |
 |:-----------------------:|:--------------------------------------------------:|
 |     ~~04/16/2020~~      |      ~~Dabin (Trivecta, Nurko, Last Heroes)~~      |
-| 05/20/2021 - 05/23/2021 |            EDC Las Vegas & CampEDC 2021            |
 | 09/03/2021 - 09/05/2021 |                    Electric Zoo                    |
+| 10/22/2021 - 10/24/2021 |            CampEDC & EDC Las Vegas 2021            |
+| 12/03/2021 - 12/05/2021 |                    Ember Shores                    |
 
 ## Previous Shows
 
