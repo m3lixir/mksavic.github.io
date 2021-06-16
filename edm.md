@@ -21,13 +21,17 @@ is_contact: true
 
 |          Date           |                        Show                        |
 |:-----------------------:|:--------------------------------------------------:|
+|       07/02/2021        |                      TRILOGY                       |
 | 07/31/2021 - 08/01/2021 |                    Hard Summer                     |
 | 08/27/2021 - 08/28/2021 |                 Beyond Wonderland                  |
-| 09/03/2021 - 09/05/2021 |                    Electric Zoo                    |
 | 09/18/2021 - 09/19/2021 |                     Second Sky                     |
-| 09/23/2021 - 09/26/2021 |                     Lost Lands                     |
 | 10/22/2021 - 10/24/2021 |            CampEDC & EDC Las Vegas 2021            |
 | 12/03/2021 - 12/05/2021 |                    Ember Shores                    |
+
+## Tickets I'm Selling
+
+| 09/03/2021 - 09/05/2021 |                    Electric Zoo                    |
+|       12/04/2021        |          Deadbeats Tour: The Revival (x2)          |
 
 ## Previous Shows
 
