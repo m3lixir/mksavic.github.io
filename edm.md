@@ -29,7 +29,8 @@ is_contact: true
 | 12/03/2021 - 12/05/2021 |                    Ember Shores                    |
 
 ## Tickets I'm Selling
-
+|          Date           |                        Show                        |
+|:-----------------------:|:--------------------------------------------------:|
 | 09/03/2021 - 09/05/2021 |                    Electric Zoo                    |
 |       12/04/2021        |          Deadbeats Tour: The Revival (x2)          |
 
