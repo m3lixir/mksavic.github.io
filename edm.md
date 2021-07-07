@@ -21,9 +21,6 @@ is_contact: true
 
 |          Date           |                        Show                        |
 |:-----------------------:|:--------------------------------------------------:|
-|       07/02/2021        |                      TRILOGY                       |
-| 07/31/2021 - 08/01/2021 |                    Hard Summer                     |
-| 08/27/2021 - 08/28/2021 |                 Beyond Wonderland                  |
 | 09/18/2021 - 09/19/2021 |                     Second Sky                     |
 | 10/22/2021 - 10/24/2021 |            CampEDC & EDC Las Vegas 2021            |
 | 12/03/2021 - 12/05/2021 |                    Ember Shores                    |
@@ -32,6 +29,7 @@ is_contact: true
 
 |          Date           |                        Show                        |
 |:-----------------------:|:--------------------------------------------------:|
+| 08/27/2021 - 08/28/2021 |                 Beyond Wonderland                  |
 | 09/03/2021 - 09/05/2021 |                    Electric Zoo                    |
 |       12/04/2021        |          Deadbeats Tour: The Revival (x2)          |
 
@@ -39,6 +37,8 @@ is_contact: true
 
 |          Date           |                        Show                        |
 |:-----------------------:|:--------------------------------------------------:|
+|       07/02/2021        |                      TRILOGY                       |
+|                         |                       Mitis                        |
 |       09/10/2020        | NPOTDF FT. ADVENTURE CLUB + WOOLI - North Carolina |
 |       02/29/2020        |                     Elephante                      |
 |       02/15/2020        |                   Kaivon (Inzo)                    |
