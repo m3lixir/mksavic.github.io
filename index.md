@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-<img class="profile-picture" src="mksavic.jpg">
+<img class="profile-picture" src="C542102D-CBCF-4D2B-9D9C-725B87B902E5.jpeg">
 
 I do R&D S&E, Cybersecurity (Research & Development, Science & Engineering) in California. I graduated with a Bachelor of Science in Computer Science and a Bachelor of Science in Women's Studies from the University of Michigan in 2018. I graduated with a Master of Science in Computer Science from New York University in 2020. During my Master's program, I completed a Master's thesis advised by [Brendan Dolan-Gavitt](http://moyix.net/).
 
